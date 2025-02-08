@@ -84,6 +84,7 @@ function App() {
       description:
         "High-end gaming laptop with a powerful GPU and fast refresh rate.",
     },
+
     {
       id: "13",
       name: "OnePlus 11",
