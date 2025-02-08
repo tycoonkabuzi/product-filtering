@@ -8,6 +8,20 @@
   display: flex;
   gap: 10px;
 }
-.nav li {
+li {
   list-style: none;
+  text-decoration: none;
+  padding-bottom: 10px;
+}
+.nav ul li:hover {
+  color: red;
+  font-weight: 700;
+}
+.products {
+  text-align: left;
+  width: 60%;
+  margin: auto;
+}
+.bold-text {
+  font-weight: 700;
 }
